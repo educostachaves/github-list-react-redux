@@ -11,3 +11,4 @@
 
 - npm install
 - npm start
+- In your browse, access http://localhost:8080/
